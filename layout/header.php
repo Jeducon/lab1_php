@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Gamezone — Магазин відеоігор</title>
-    <link rel="stylesheet" href="styles.css" type="text/css">
+    <link rel="stylesheet" href="css/styles.css" type="text/css">
 </head>
 <body>
 
