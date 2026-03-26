@@ -10,7 +10,7 @@
     <div class="game-card">
         <img src="img/cyberpunk2077.jpg" alt="Cyberpunk_2077" class="game-image">
         <h3>Cyberpunk 2077</h3>
-        <p>Науково-фантастичний екшен у відкритому світі.</p>
+        <p>Науково-фантастичний екшен у відкритому світі..</p>
     </div>
 
     <div class="game-card">

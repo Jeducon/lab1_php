@@ -1,8 +1,7 @@
 <?php
-    include 'header.php';
-    include 'left_menu.php';
+    // include 'layout/header.php';
+    // include 'layout/left_menu.php';
 ?>
-
 <main>
     <h2>Про сайт</h2>
     <p>Gamezone — це онлайн-магазин відеоігор, створений для геймерів, які цінують якість та зручність.</p>
@@ -17,5 +16,5 @@
 </main>
 
 <?php
-    include 'footer.php';
+    // include 'layout/footer.php';
 ?>
