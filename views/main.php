@@ -26,3 +26,15 @@
     </div>
 </div>  
 </main>
+
+
+<?php if (!empty($_SESSION['user_id'])): ?>
+    <p>
+        Ви увійшли як <strong><?php echo htmlspecialchars($_SESSION['login']); ?></strong>
+        <?php if (!empty($_SESSION['admin'])): ?>
+            (адміністратор)
+        <?php else: ?>
+            (користувач)
+        <?php endif; ?>
+    </p>
+<?php endif; ?>
